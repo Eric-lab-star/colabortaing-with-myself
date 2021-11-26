@@ -1,10 +1,38 @@
 # Practicing md
 
-learning how to github
+**learning how to github**  
+_hello italic_  
+**_boldand italic_**
 
-## Check List of songs
+> block quotes
 
-- [x] Butter
-- [O] Queen
-- [O] Big Breakdown
-- [O] One last night
+> multiple
+>
+> quotes
+
+## Ordered List of songs
+
+---
+
+1. Hello
+2. Queen
+3. big breakdown
+4. 21 Guns
+
+---
+
+## Unordered List songs
+
+---
+
+- Hello
+- Queen
+- 1997\.09\.12\. song
+
+---
+
+Adding Image
+
+![cat](/cat.jpg)
+
+- [x] hello
