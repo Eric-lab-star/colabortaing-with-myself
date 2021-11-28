@@ -1,4 +1,4 @@
-# Practicing md
+# ReadMe
 
 **learning how to github**  
 _hello italic_  
